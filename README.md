@@ -8,3 +8,5 @@ Files included:
 `run_model.ipynb` contains an example of how to run the model for various scenarios.
 
 `AQ_Analysis_and_Plotting` contains the code to run an air quality analysis on the stock and flow scenarios and plot the results.
+
+A sample input excel file is included.
