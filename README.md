@@ -9,7 +9,7 @@ The model simulates one year at a time, beginning at the start_year, and going t
 
 `run_model.ipynb` contains an example of how to run the model for various scenarios.
 
-`AQ_Analysis_and_Plotting` contains the code to run an air quality analysis on the stock and flow scenarios and plot the results.
+`AQ_Analysis_and_Plotting` contains the code to run an air quality analysis on the stock and flow scenarios and plot the results. The air quality analysis uses the InMAP Source Receptor Matrix(Goodkind et al, 2019) (<https://zenodo.org/records/2589760>) and electricity consumption-based increase in PM2.5 concentrations from Hennessy et al (2022)(<https://iopscience.iop.org/article/10.1088/1748-9326/ac6cfa/meta>). 
 
 
 
@@ -50,7 +50,7 @@ This model allows you to set sales percentages for each vehicle type, and a sche
 * Path to input file
 
 
-A sample input excel file is included.
+Input excel files are included. Fleet inputs are derived from the California Air Resources Board's EMFAC2021 Emissions and Fleet Database (<https://arb.ca.gov/emfac/fleet-db/28ab505932e5beeed459f365a6966cc2a9419b9e>)
 
 
 
