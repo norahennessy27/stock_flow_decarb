@@ -1,3 +1,5 @@
+Supporting code for _Hennessy et al. 2024. "Pathways to zero emissions in California's heavy-duty transportation sector". Environmental Research: Infrastructure and Sustainability._
+
 # stock_flow_decarb
 California Transport Decarbonization Stock and Flow Model
 
